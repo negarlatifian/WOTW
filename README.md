@@ -1,2 +1,0 @@
-# WOTW
-WritingsOnTheWall
